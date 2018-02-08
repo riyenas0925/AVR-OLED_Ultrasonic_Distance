@@ -1,0 +1,16 @@
+CodeVisionAVR C Compiler V1.24.8d Professional
+(C) Copyright 1998-2006 Pavel Haiduc, HP InfoTech s.r.l.
+http://www.hpinfotech.com
+
+File: C:\Users\riyen\Desktop\프로젝트\AVR-OLED_Distance\OLED 초음파 거리계(코드비젼)\distance meter..c
+Global variables memory map:
+
+Variable                          Address   Size
+distance                                                             R4,R5      2
+edge_mode                                                            R6,R7      2
+avg_cnt                                                              R8,R9      2
+sum                                                                R10,R11      2
+digit_1                                                            R12,R13      2
+digit_10                                                              160h      2
+digit_100                                                             162h      2
+digit_1000                                                            164h      2
